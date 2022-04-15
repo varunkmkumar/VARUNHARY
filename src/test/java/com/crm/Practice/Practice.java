@@ -7,6 +7,9 @@ public class Practice {
 	public void practice() {
 		System.out.println("haii");
 		System.out.println("hello");
+		System.out.println("haii1");
+		
+		System.out.println("haii1");
 		
 		
 	}
